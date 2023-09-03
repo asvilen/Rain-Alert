@@ -29,7 +29,7 @@
 - Python
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Twilio API](https://www.twilio.com/)
-- PythonAnywhere for hosting and scheduling.
+- [PythonAnywhere](https://www.pythonanywhere.com/) for hosting and scheduling.
 
 ## Installation
 
