@@ -42,7 +42,7 @@
     ```
     pip install requests twilio
     ```
-3. **Set Up Environment Variables**: Configure your environment variables:
+3. **Set Up Environment Variables**:
 
    - **OpenWeatherMap API Key**:
        - Create an account on [OpenWeatherMap](https://openweathermap.org/).
