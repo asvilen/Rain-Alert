@@ -13,10 +13,7 @@
 
 **Rain Alert via SMS** is your personal weather guardian. It's a Python-powered sentinel that watches the skies, and when rain is in the forecast within the next 9 hours, it sends you an SMS alert to ensure you're prepared with an umbrella in hand. Powered by the OpenWeatherMap API for weather data and the Twilio API for text messaging, this project runs automatically at 5:01 UTC daily, keeping you dry when the heavens open up.
 
-![265262462-391ee5c1-d263-4463-9a19-c5a2e2435dae](https://github.com/asvilen/Rain-Alert/assets/47661156/06dcb0c2-1ba3-4f82-ac23-bc0a9d32e4bb)
 ![265262462-391ee5c1-d263-4463-9a19-c5a2e2435dae](https://github.com/asvilen/Rain-Alert/assets/47661156/19ca134d-e154-4963-a7dc-6bd4ca484c07)
-
-
 
 ## How It Works
 
