@@ -63,7 +63,7 @@
 
 - **Manual Run**: To run the program manually, navigate to the project directory and execute:
    ```
-   python rain_alert.py
+   python main.py
    ```
 - **Automated Scheduling**: For automated daily execution, consider hosting the script on a platform like [PythonAnywhere](https://www.pythonanywhere.com/).
 
