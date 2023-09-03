@@ -4,7 +4,7 @@ from twilio.rest import Client
 ### WEATHER API ###
 ###################
 
-api_key = "ad39c8ebdfc4fef1e1fd0432dd5df961"
+api_key = os.environ.get("OWM_API_KEY")
 end_point = "https://api.openweathermap.org/data/2.5/forecast"
 parameters = {
     'lat'  : 42.653810,
@@ -20,7 +20,7 @@ weather_data = response.json()
 ###################
 def sms_sender():
     account_sid = "AC72dd09fb5fc1ed43f5eac0e029598255"
-    auth_token = "c1a8303105fc7dcc124aa0c4045297e8"
+    auth_token = os.environ.get("OWN_AUTH_TOKEN")
 
     client = Client(account_sid, auth_token)
     message  = client.messages.create(
